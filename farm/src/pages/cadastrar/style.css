@@ -1,0 +1,15 @@
+.form-center{
+    display: flex;
+    justify-content: center; 
+    
+}
+.input-form{
+    width: 450px;
+}
+.pl-0{
+    padding-left: 0;
+    text-align: left;
+}
+.txt-center{
+    text-align: center;
+}

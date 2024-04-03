@@ -1,0 +1,7 @@
+.search{
+    width: 400px;
+}
+.display{
+    display: flex;
+    flex-direction:column-reverse
+}
